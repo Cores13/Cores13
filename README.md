@@ -1,6 +1,6 @@
 <h3 align="center">Explore my expertise in software development to turn your ideas into reality. Contact me to collaborate on your next project today.</h3>
 
-- 👨‍💻 Everything about me is available at [https://cores13.github.io](https://cores13.github.io)
+- 👨‍💻 Everything about me is available at [my portfolio website](https://cores13.github.io)
 
 - 📫 Reach me out via **amir.kasumovic@live.com**
 
