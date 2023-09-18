@@ -4,7 +4,7 @@
 
 - 📫 Reach me out via **amir.kasumovic@live.com**
 
-- Connect with me [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/amir-kasumovic-b02507163/)
+- 💼 Connect with me [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/amir-kasumovic-b02507163/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
