@@ -1,4 +1,4 @@
-<h3 align="center">Explore my expertise in software development to turn your ideas into reality. Contact me to collaborate on your next project today.</h3>
+## <center>Explore my expertise in software development to turn your ideas into reality. Contact me to collaborate on your next project today.</center>
 
 - 👨‍💻 Everything about me is available at [my portfolio website](https://cores13.github.io)
 
