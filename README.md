@@ -1,4 +1,4 @@
-## Explore my expertise in software development to turn your ideas into reality. Contact me to collaborate on your next project today.
+## Explore my expertise in software development to turn your ideas into reality. Contact me to collaborate on your next project today. ##
 
 - 👨‍💻 Everything about me is available at [my portfolio website](https://cores13.github.io)
 
@@ -6,7 +6,7 @@
 
 - 💼 Connect with me [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/amir-kasumovic-b02507163/)
 
-### Languages and Tools:
+### Languages and Tools: ###
 <p align="left"> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" alt="dotnet" width="40" height="40"/> </a> 
